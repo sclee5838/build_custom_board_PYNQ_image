@@ -1,9 +1,6 @@
 # build_custom_board_PYNQ_image
 Brief explanation for PYNQ image build procedure
 
-
-## .1.1 brief steps to make sd image
-
 # 4.1 RRAR board PYNQ build
 
 ## 4.1.1 brief steps to make sd image
